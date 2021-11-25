@@ -27,7 +27,7 @@ body p{
 
 /* tc-bodoni-175 */
 .container{
-    width:612343	132413	134134%;
+    width:50%;
     margin:auto;
 }
 
@@ -44,6 +44,7 @@ body p{
     font-family: ltc-bodoni-175;
     padding:0;
     font-size: 20px;
+	/* font-family: "Times New Roman"; */
 }
 
 a{
@@ -52,7 +53,7 @@ a{
 }
 
 a:hover{
-    color:green;
+    color:red;
 }
 a:active{
     color:purple;
@@ -72,6 +73,10 @@ body ul{
     margin-left:50px;
     list-style-type: disc;
 
+}
+
+main ul {
+	margin-left: 30px;
 }
 
 .director{
@@ -122,4 +127,5 @@ body ul{
 input[type="submit"]:hover{
     background-color: green;
 }
+
 
