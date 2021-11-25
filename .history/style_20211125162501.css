@@ -49,6 +49,13 @@ a:hover{
 a:active{
     color:purple;
 }
+/*
+.box-1{
+     background-color:red;
+    border: 5px black solid;
+    padding:10px;
+    margin-top:10px;
+}  */
 
 body ul{
     font-family: ltc-bodoni-175;
@@ -69,6 +76,7 @@ main ul {
 }
 
 .topfont{
+    /* font-family: ltc-bodoni-175; */
     font-family: 'Inter', sans-serif;
     margin: 0px;
     padding:0px;

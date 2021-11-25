@@ -69,6 +69,7 @@ main ul {
 }
 
 .topfont{
+    /* font-family: ltc-bodoni-175; */
     font-family: 'Inter', sans-serif;
     margin: 0px;
     padding:0px;
